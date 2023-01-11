@@ -1,0 +1,130 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.col-lg-6 h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+.col-lg-6 h4{
+    color: #fff;
+}
+#title{
+    background-color: #86E5FF;
+    /* background-size: cover; */
+    width: 100%;
+}
+#title-page{
+    padding: 4% 7%;
+}
+.profile{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+/* Navbar-Brand */
+.navbar-brand{
+    margin-left: 6.5%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+.nav-item{
+    margin: 0 6px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.navbar-nav{
+    margin-right: 6.5%;
+}
+/* Education */
+#education{
+    text-align: center;
+    padding: 6% 10%;
+    color: #0081C9;
+}
+#education img{
+    height: 130px;
+}
+#projects{
+    background-color: #86E5FF;
+    text-align: center;
+    color: #fff;
+}
+#skills{
+    padding: 3% 10% 6%;
+    text-align: left;
+    color: #0081C9;
+}
+.slide-image{
+    padding-bottom: 50px;
+}
+#contact{
+    text-align: center;
+    background-color: #86E5FF;
+    color: #fff;
+}
+#contact a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 25px;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 2% 5%;
+    transition: 0.6s;
+    
+}
+#contact .row{
+    line-height: 4;
+}
+#contact a:hover{
+    margin-left: 6px;
+    border: 1px solid #0081C9;
+    color:#0081C9
+
+}
+#contact p{
+    line-height: 3;
+    font-size: 19px;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+#title-page .btn a{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.6s;
+    
+}
+#title-page .btn a:hover{
+    color: #0081C9;
+}
+#certifications{
+    background-color: #86E5FF;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#achievements{
+    background-color: #fff;
+    color: #0081C9;
+    text-align: center;
+}
+.certificate-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+
+#achievements{
+    padding: 4% 20%;
+}
+#certifications{
+    padding: 4% 15%;
+}
